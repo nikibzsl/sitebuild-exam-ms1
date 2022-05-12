@@ -5,6 +5,7 @@
     display: block;
 
     width: 100vw;
+    max-width: 1200px;
     height: 100vh;
     
     background-color: #efd592;
@@ -20,13 +21,13 @@
     display: block;
     position: absolute;
     //box-sizing: border-box;
-
-    top: 50%;
-    right: 50%;
-
+    
     width: 200px;
     height: 200px;
 
+    top: calc(50% - 100px);
+    left: calc(50% - 100px);
+    
     background-color: #242d38;
     color: #efd592;
 
@@ -65,6 +66,7 @@
     background-color: #4343f9;
 
     width: 100vw;
+    max-width: 1200px;
     height: 100vh;
 
 }
@@ -88,6 +90,6 @@
     height: 60px;
 
     bottom: 40px;
-    right: 50%;
+    right: calc(50% - 100px);
 
 }
