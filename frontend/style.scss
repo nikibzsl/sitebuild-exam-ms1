@@ -74,8 +74,20 @@
     display: block;
     position:absolute;
 
-    background-color: #4343f9;
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
 
-    
+    background-color: #4343f9;
+    color: white;
+
+    border: none;
+
+    box-shadow: 0px 10px 20px black;
+
+    width: 200px;
+    height: 60px;
+
+    bottom: 40px;
+    right: 50%;
 
 }

@@ -53,6 +53,16 @@
 #button3 {
   display: block;
   position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 21px;
   background-color: #4343f9;
+  color: white;
+  border: none;
+  -webkit-box-shadow: 0px 10px 20px black;
+          box-shadow: 0px 10px 20px black;
+  width: 200px;
+  height: 60px;
+  bottom: 40px;
+  right: 50%;
 }
 /*# sourceMappingURL=style.css.map */
