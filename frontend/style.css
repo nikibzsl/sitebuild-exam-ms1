@@ -1,0 +1,58 @@
+#section-yellow {
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  background-color: #efd592;
+}
+
+#button1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 21px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  width: 200px;
+  height: 200px;
+  background-color: #242d38;
+  color: #efd592;
+  border: 20px;
+  border-color: black;
+  border-radius: 50%;
+}
+
+#button2 {
+  display: block;
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 21px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-weight: bold;
+  width: 200px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  border-width: 6px;
+  border-color: #242d38;
+  background-color: #efd592;
+}
+
+#section-blue {
+  display: block;
+  position: absolute;
+  background-color: #4343f9;
+  width: 100vw;
+  height: 100vh;
+}
+
+#button3 {
+  display: block;
+  position: absolute;
+  background-color: #4343f9;
+}
+/*# sourceMappingURL=style.css.map */
